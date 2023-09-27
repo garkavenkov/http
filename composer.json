@@ -1,0 +1,19 @@
+{
+    "name": "garkavenkov/http",
+    "description": "The library provides utilities for dealing with http requests and responses.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Http\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maksim Garkavenkov",
+            "email": "maksim.garkavenkov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
