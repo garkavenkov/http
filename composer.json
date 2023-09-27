@@ -1,6 +1,6 @@
 {
     "name": "garkavenkov/http",
-    "description": "The library provides utilities for dealing with http requests and responses.",
+    "description": "The PHP library that provides utilities for dealing with http requests and responses.",
     "type": "library",
     "license": "MIT",
     "autoload": {
