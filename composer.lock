@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "0b2e264150117cd8894e89601d96f047",
+    "packages": [
+        {
+            "name": "garkavenkov/registry",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/garkavenkov/registry.git",
+                "reference": "4f559c866dea451f5933c03005b8fd945b51d346"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/garkavenkov/registry/zipball/4f559c866dea451f5933c03005b8fd945b51d346",
+                "reference": "4f559c866dea451f5933c03005b8fd945b51d346",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Registry\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Maksim Garkavenkov",
+                    "email": "maksim.garkavenkov@gmail.com"
+                }
+            ],
+            "description": "Key / instance storeroom",
+            "support": {
+                "issues": "https://github.com/garkavenkov/registry/issues",
+                "source": "https://github.com/garkavenkov/registry/tree/v1.0.0"
+            },
+            "time": "2023-09-25T17:49:01+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "garkavenkov/registry": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}
